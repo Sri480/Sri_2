@@ -6,6 +6,7 @@
 ## Overview and Origin
 
 * What is AlphaSense about? *
+
 **AlphaSense** provides a platform to provide insights and aid in investment decision-making by sifting through vast amoounts of financial data using Machine Language and Natural Language Processing.
 
 AlphaSense was launched in 2011 by Jack Kokko and Raj Neervannan. The idea was  born when Jack, as a investment banking analyst in Silicon Valley, had to do manual research the hard way, researching large number of documents searching with one keyword at a time. Years later at The Wharton School, Jack met his co-founder Raj Neervannan and realized the research process was just as cumbersome and research tools were still just as outdated. They founded AlphaSense to provide a new type of search engine utilizing Artificial intelligence.
