@@ -1,11 +1,9 @@
 # AlphaSense and Artificial Intelligence for Financial Research
 
 
-![AlphaSense](./AlphaSense_Logo.svg)
-
 [![AlphaSense](./AlphaSense_Logo.svg)](https://www.alpha-sense.com)
 
-## Area of Interest:  FINANCE
+## AREA OF INTEREST:  FINANCE
 
 
 ## Overview and Origin
