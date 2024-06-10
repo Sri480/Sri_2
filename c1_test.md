@@ -3,6 +3,8 @@
 
 ![AlphaSense](./AlphaSense_Logo.svg)
 
+[![AlphaSense](./AlphaSense_Logo.svg)](https://www.alpha-sense.com)
+
 ## Area of Interest:  FINANCE
 
 
