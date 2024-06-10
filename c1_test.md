@@ -8,9 +8,9 @@
 
 ## Overview and Origin
 
-**What is AlphaSense about?**
+**What is the company AlphaSense about?**
 
-**AlphaSense** provides a platform to provide insights and aid in investment decision-making by sifting through vast amounts of financial data using Machine Language and Natural Language Processing.
+**AlphaSense** provides a platform to provide insights and help professionals make smarter business decisions by sifting through vast amounts of financial data using Machine Language and Natural Language Processing.
 
 AlphaSense was launched in 2011 by Jack Kokko and Raj Neervannan. The idea was  born when Jack, as a investment banking analyst in Silicon Valley, had to manually research the hard way, working with large number of documents searching with one keyword at a time. Years later, as a Wharton Executive MBA student, Jack realized the research process was just as cumbersome and research tools were just as outdated. At Wharton, Jack met his co-founder Raj Neervannan and founded AlphaSense to provide a new type of search engine utilizing Artificial intelligence.
 
@@ -41,12 +41,12 @@ Business Impact of AlphaSense can be significant for companies or professionals 
 
 Below are some of the core metrics that companies in this space use to measure success.
 
-***Customer Base:*** Customer base for Alphasense has been growing internationally among investment firms, corporations and professional services. They have also succeeeded in raising multiple rounds of funding pointing to growing investor confidence.
-
-***Revenue and Financial Performance:*** AlphaSense had a $125 million Series D round. This is a private company but fundraising efforts point to expectations for strong financial performance in the future.
-
-***Customer Satisfaction and Retention:*** AlphaSense has received industry recognition for its innovative AI based approach.
-
+>***Customer Base:*** Customer base for Alphasense has been growing internationally among investment firms, corporations and professional services. They have also succeeeded in raising multiple rounds of funding pointing to growing investor confidence.
+>
+>**Revenue and Financial Performance:*** AlphaSense had a $125 million Series D round. This is a private company but fundraising efforts point to expectations for strong financial performance in the future.
+>
+>***Customer Satisfaction and Retention:*** AlphaSense has received industry recognition for its innovative AI based approach.
+>
 
 AlphaSense is a leader in the field of AI-powered financial search and analytics. While Bloomberg Terminal is widely used in the financial industry and is known for providing real-time and end-of-day feeds and pricing, it can be complex and may lack advanced AI-driven capabilities. FactSet has a comprehensive coverage of financial data but it too may lack the advanced NLP technology employed by AlphaSense. Many indicators suggest AlphaSense is on a good growth trajectory and has raised several rounds of funding including $125 million in 2021. It has a growing customer base and continues to innovate and expand its project offerings. The company has received Industry Recognition and appears poised to solidify its position among financial professionals.
 
