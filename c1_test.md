@@ -28,7 +28,7 @@ AlphaSense has used artificial intelligence technologies for over ten years. It 
 
 AlphaSense is in the business of providing AI powered financial research in the areas of Enterprise intelligence, Expert Insights, Wall Street Insights.  They provide access to content like Broker and Independent Research, Expert Transcript Library, Company Documents, News, Regulatory and Internal Content.
 
-As the field of AI has mushroomed over the past few years, the landscape of financial research has changed along with it. While research was pretty manual 10 years ago (and still continues to be, in many cases), there have been attempts by numerous companies to use the latest technologies like AI to bring this research to our finger tips with minimal interaction and maximum relevant content. This is mainly by making the computers smarter through Machine Learning, Reinforced Learning, Supervised and Unsupervised Learning. Information is Power and Data is King. Thus using vast amounts of data in the public space for training, data can be converted to meaningful information which can be offered to the public at a price. 
+As the field of AI has mushroomed over the past few years, the landscape of financial research has changed along with it. While research was pretty manual 10 years ago (and still continues to be, in many cases), there have been attempts by numerous companies to use the latest technologies like AI to bring this research to our finger tips with minimal interaction and maximum relevant content. This is mainly by making the computers smarter through Machine Learning, Reinforced Learning, Supervised and Unsupervised Learning. Information is Power and Data is King. By using vast amounts of data in the public space for training, data can be converted to meaningful information which can be offered to the public at a price. 
 
 The latest trend in AI is Generative AI and the use of Large Language Models. Information can now be presented in a more concise and relevant manner and tailored based on context.
 
@@ -54,7 +54,7 @@ AlphaSense is a leader in the field of AI-powered financial search and analytics
 
 ## Recommendations
 
-1. AlphaSense offers its services based on a subscription-based model. While this is useful for organizations, especially integrating with thrid party softeare and APIs, this is not user-friendly for first-time  user or a potential future customer. Even though there is a free trial, it is not seamless. Currently we get a message "Please fill out the form below and an AlphaSense team member will be in touch within 20 minutes to help set up your trial." Providing a seamless web-based interface with limited free options for all would greatly benefit the company, much like OpenAI's ChatGPT. This provides convenience and more visibility into potential benefits offered by the company. Also providing some services for free would bring more traffic to this site and make it more popular amongst finance professionals. AI technologies like Natural Language Processing (which is already used in its core products) can be leveraged for its free web based interface.
+1. AlphaSense offers its services based on a subscription-based model. While this is useful for organizations, especially integrating with thrid party software and APIs, this is not user-friendly for a first-time  user or a potential future customer. Even though there is a free trial, it is not seamless. Currently we get a message "Please fill out the form below and an AlphaSense team member will be in touch within 20 minutes to help set up your trial." Providing a seamless web-based interface with limited free options for all would greatly benefit the company, much like OpenAI's ChatGPT. This provides convenience and more visibility into potential benefits offered by the company. Also providing some services for free would bring more traffic to this site and make it more popular amongst finance professionals. AI technologies like Natural Language Processing (which is already used in its core products) can be leveraged for its free web based interface.
 
 2.  Another recommendation is for AlphaSense to leverage AI and machine learning capabilities to provide personalized investment advice for individual investors. Individual investors do not have access to all the market research available to large corporations or hedge funds who can employ people to do the research for them. Personal investment advice for free or a minimal fee would be an excellent way to draw more traffic to this site and be of benefit to the community.
 
@@ -65,7 +65,7 @@ AlphaSense is a leader in the field of AI-powered financial search and analytics
 |:---------:|:---------:|
 | Company Website | https://www.alpha-sense.com |
 | The NewStack  | https://thenewstack.io/how-alphasense-added-generative-ai-to-its-existing-ai-stack/  |
-| Interview with Wharton | https://www.wharton.upenn.edu/story/alphasense-intelligent-search-engine-business/ |
+| Interview with Wharton (posted May 2018) | https://www.wharton.upenn.edu/story/alphasense-intelligent-search-engine-business/ |
 | ChatGPT | https://chat.openai.com |
 | Wiki | https://handwiki.org/wiki/Company:AlphaSense |
 
