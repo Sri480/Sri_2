@@ -43,7 +43,7 @@ Below are some of the core metrics that companies in this space use to measure s
 
 >***Customer Base:*** Customer base for Alphasense has been growing internationally among investment firms, corporations and professional services. They have also succeeeded in raising multiple rounds of funding pointing to growing investor confidence.
 >
->**Revenue and Financial Performance:*** AlphaSense had a $125 million Series D round. This is a private company but fundraising efforts point to expectations for strong financial performance in the future.
+>***Revenue and Financial Performance:*** AlphaSense had a $125 million Series D round. This is a private company but fundraising efforts point to expectations for strong financial performance in the future.
 >
 >***Customer Satisfaction and Retention:*** AlphaSense has received industry recognition for its innovative AI based approach.
 >
