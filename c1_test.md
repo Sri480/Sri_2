@@ -10,10 +10,9 @@
 
 **What is AlphaSense about?**
 
-**AlphaSense** provides a platform to provide insights and aid in investment decision-making by sifting through vast amoounts of financial data using Machine Language and Natural Language Processing.
+**AlphaSense** provides a platform to provide insights and aid in investment decision-making by sifting through vast amounts of financial data using Machine Language and Natural Language Processing.
 
-AlphaSense was launched in 2011 by Jack Kokko and Raj Neervannan. The idea was  born when Jack, as a investment banking analyst in Silicon Valley, had to do manual research the hard way, researching large number of documents searching with one keyword at a time. Years later at The Wharton School, Jack met his co-founder Raj Neervannan and realized the research process was just as cumbersome and research tools were just as outdated. They founded AlphaSense to provide a new type of search engine utilizing Artificial intelligence.
-
+AlphaSense was launched in 2011 by Jack Kokko and Raj Neervannan. The idea was  born when Jack, as a investment banking analyst in Silicon Valley, had to manually research the hard way, working with large number of documents searching with one keyword at a time. Years later, as a Wharton Executive MBA student, Jack realized the research process was just as cumbersome and research tools were just as outdated. At Wharton, Jack met his co-founder Raj Neervannan and founded AlphaSense to provide a new type of search engine utilizing Artificial intelligence.
 
 ## Business Activities
 
@@ -21,7 +20,7 @@ The core product of AlphaSense is its **AI-powered search and discovery platform
 
 AlphaSense has over 4000 enterprise clients including hedge funds and other investment firms.  As per a quote from Jack: “We have hundreds of algorithms that are reading every line of text and categorizing information. So our system knows what company or companies are being talked about in a given document, what industry it’s about based on the language, and many other things that help you quickly narrow down your search to a given industry, to a specific set of companies.”
 
-AlphaSense has used artificial intelligence technologies for over ten years. It uses Machine Learning and Natural Language Processing. AlphaSense is now also using large language models and is now developing its own large language models (LLMs). It recently launched its first generative AI application, Smart Summaries, which provides summaries of content such as earnings calls.
+AlphaSense has used artificial intelligence technologies for over ten years. It uses Machine Learning and Natural Language Processing. AlphaSense is now also using large language models and is now developing its own large language models (LLMs). It recently launched its first Generative AI application, Smart Summaries, which provides summaries of content such as earnings calls.
 
 
 ## Landscape
@@ -32,7 +31,7 @@ As the field of AI has mushroomed over the past few years, the landscape of fina
 
 The latest trend in AI is Generative AI and the use of Large Language Models. Information can now be presented in a more concise and relevant manner and tailored based on context.
 
-One of the direct comppetitors to AlphaSense is Bloomberg which is also investing heavily in Generative AI and has announced BloombergGPT, an LLM for finance. Bloomberg plans to integrate BloombergGPT into its terminal software. Other competitors in this space include Thomson Reuters Eikon, FactSet. In May 2022, AlphaSense acquired competitor Sentieo.
+One of the direct competitors to AlphaSense is Bloomberg which is also investing heavily in Generative AI and has announced BloombergGPT, an LLM for finance. Bloomberg plans to integrate BloombergGPT into its terminal software. Other competitors in this space include Thomson Reuters Eikon, FactSet. In May 2022, AlphaSense acquired competitor Sentieo.
 
 
 ## Results
@@ -44,7 +43,7 @@ Below are some of the core metrics that companies in this space use to measure s
 
 ***Customer Base:*** Customer base for Alphasense has been growing internationally among investment firms, corporations and professional services. They have also succeeeded in raising multiple rounds of funding pointing to growing investor confidence.
 
-***Revenue and Financial Performance:*** AlphaSense had a $125 million Series D round. This is a private company but fund raising efforts point to expectations for strong financial performance in the future.
+***Revenue and Financial Performance:*** AlphaSense had a $125 million Series D round. This is a private company but fundraising efforts point to expectations for strong financial performance in the future.
 
 ***Customer Satisfaction and Retention:*** AlphaSense has received industry recognition for its innovative AI based approach.
 
@@ -54,9 +53,9 @@ AlphaSense is a leader in the field of AI-powered financial search and analytics
 
 ## Recommendations
 
-1. AlphaSense offers its services based on a subscription-based model. While this is useful for organizations, especially integrating with thrid party software and APIs, this is not user-friendly for a first-time  user or a potential future customer. Even though there is a free trial, it is not seamless. Currently we get a message "Please fill out the form below and an AlphaSense team member will be in touch within 20 minutes to help set up your trial." Providing a seamless web-based interface with limited free options for all would greatly benefit the company, much like OpenAI's ChatGPT. This provides convenience and more visibility into potential benefits offered by the company. Also providing some services for free would bring more traffic to this site and make it more popular amongst finance professionals. AI technologies like Natural Language Processing (which is already used in its core products) can be leveraged for its free web based interface.
+1. AlphaSense offers its services based on a subscription-based model. While this is useful for organizations, especially integrating with thrid party software and APIs, this is not user-friendly for a first-time  user or a potential future customer. Even though there is a free trial, it is not seamless. Currently we get a message *"Please fill out the form below and an AlphaSense team member will be in touch within 20 minutes to help set up your trial."* Integrating a seamless web-based interface with limited free options for all would greatly benefit the company, much like OpenAI's ChatGPT. This provides convenience and more visibility into potential benefits offered by the company. Also providing some services for free would bring more traffic to this site and make it more popular amongst finance professionals. AI technologies like Natural Language Processing (which is already used in its core products) can be leveraged for its free web based interface.
 
-2.  Another recommendation is for AlphaSense to leverage AI and machine learning capabilities to provide personalized investment advice for individual investors. Individual investors do not have access to all the market research available to large corporations or hedge funds who can employ people to do the research for them. Personal investment advice for free or a minimal fee would be an excellent way to draw more traffic to this site and be of benefit to the community.
+2.  Another recommendation is for AlphaSense to leverage AI and machine learning capabilities to provide personalized investment advice for individual investors. Individual investors do not have access to all the market research available to large corporations or hedge funds who can employ specialists to do the research for them. Personal investment advice for free or a minimal fee would be an excellent way to draw more traffic to this site and be of benefit to the community.
 
 
 ## Bibliography
